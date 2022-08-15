@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @naxrohan
-- 👀 I’m interested in Android App, Cloud based Applications
-- 🌱 I’m currently learning typescript,python, AWS..
-- 📫 How to reach me ...:-) you already know.
+- 👋 Hi, I’m Rohan DSouza @naxrohan.
 
-<!---
-naxrohan/naxrohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Programming Languages
+- PHP, Javascript/NodeJS, Python, CSS
+
+## Technologies I Love 
+- ReactJS, Laravel, MySql, Mongodb, AWS Cloud, Kubernetes, Docker, DevOps
+
+-  I’m also a self taught Android developer, check out some of my apps <a href="https://naxrohan.github.io/apps/" target="_blank">here</a>.
