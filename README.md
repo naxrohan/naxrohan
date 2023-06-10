@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Rohan DSouza @naxrohan.
 
 ## Programming Languages
-- PHP, Javascript/NodeJS, Python, CSS
+- PHP , Javascript/NodeJS/TypeScript, Python, CSS
 
 ## Technologies I Love 
-- ReactJS, Laravel, MySql, Mongodb, AWS Cloud, Kubernetes, Docker, DevOps
+- ReactJS, Laravel, MySQL, DynamoDB, AWS Cloud, Terraform, Docker, DevOps
 
 ### Also worked with:
 - Drupal7, Drupal8, CodeIgniter, StencilJS
